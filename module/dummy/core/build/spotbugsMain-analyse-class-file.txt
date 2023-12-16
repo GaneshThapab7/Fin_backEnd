@@ -1,0 +1,2 @@
+/home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/core/build/classes/java/main/org/apache/fineract/dummy/core/service/DummyService.class
+/home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/core/build/classes/java/main/org/apache/fineract/dummy/core/data/DummyMessage.class

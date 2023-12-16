@@ -1,0 +1,22 @@
+
+
+# GetSelfClientsClientIdTransactionsTransactionIdResponse
+
+GetSelfClientsClientIdTransactionsTransactionIdResponse
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**amount** | **Float** |  |  [optional] |
+|**currency** | [**GetSelfClientsSavingsAccountsCurrency**](GetSelfClientsSavingsAccountsCurrency.md) |  |  [optional] |
+|**date** | **LocalDate** |  |  [optional] |
+|**id** | **Integer** |  |  [optional] |
+|**officeId** | **Integer** |  |  [optional] |
+|**officeName** | **String** |  |  [optional] |
+|**reversed** | **Boolean** |  |  [optional] |
+|**submittedOnDate** | **LocalDate** |  |  [optional] |
+|**type** | [**GetSelfClientsClientIdTransactionsType**](GetSelfClientsClientIdTransactionsType.md) |  |  [optional] |
+
+
+

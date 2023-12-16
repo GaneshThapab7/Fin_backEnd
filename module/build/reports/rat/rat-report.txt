@@ -1,0 +1,38 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2023-12-12T21:11:11+05:45
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 12
+
+Apache Licensed: 12
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/build.gradle
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/build.gradle
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/service/build.gradle
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/service/src/main/java/org/apache/fineract/dummy/service/DummyServiceImpl.java
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/service/dependencies.gradle
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/starter/build.gradle
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/starter/src/main/java/org/apache/fineract/dummy/starter/DummyAutoConfiguration.java
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/starter/dependencies.gradle
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/core/build.gradle
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/core/src/main/java/org/apache/fineract/dummy/core/service/DummyService.java
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/core/src/main/java/org/apache/fineract/dummy/core/data/DummyMessage.java
+  AL    /home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/core/dependencies.gradle
+ 
+*****************************************************

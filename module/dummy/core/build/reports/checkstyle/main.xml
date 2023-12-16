@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.3.1">
+<file name="/home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/core/src/main/java/org/apache/fineract/dummy/core/service/DummyService.java">
+</file>
+<file name="/home/ganesh/ita/apache-fineract-src-1.8.4/module/dummy/core/src/main/java/org/apache/fineract/dummy/core/data/DummyMessage.java">
+</file>
+</checkstyle>

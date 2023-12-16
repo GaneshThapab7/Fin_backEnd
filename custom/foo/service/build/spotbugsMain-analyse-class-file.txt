@@ -1,0 +1,1 @@
+/home/ganesh/ita/apache-fineract-src-1.8.4/custom/foo/service/build/classes/java/main/com/acmecorp/fineract/foo/service/FooDummyServiceImpl.class
